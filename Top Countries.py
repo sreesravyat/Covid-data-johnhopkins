@@ -1,3 +1,4 @@
+python setup.py sdist
 import pandas as pd
 import matplotlib.pyplot as plt
 
